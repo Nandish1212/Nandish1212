@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Nandish1212
-- 👀 I’m interested in full stack developer
-- 🌱 I’m currently learning front end development 
-- 💞️ I’m looking to collaborate on sree vidyanikethan engineering college
+- 👀 I’m interested in Azure Data Engineering
+- 🌱 I’m currently learning Azure Data Engineering Tools. 
+- 💞️ I’m looking to collaborate on Azure Data Engineering.
+- ⚙️Skills: Python, SQL, PySpark, Azure, Azure Databricks, Azure Data Factory, Azure Synapse, ETL process, Data Modelling, Data Transformation.
 - 📫 How to reach me nnandish338@gmail.com
 
 <!---
